@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Siyao Zheng"
 title_separator          : "-"
 name                     : &name "Siyao Zheng"
-description              : &description "Ph.D. candidate @Tsinghua University"
-url                      : https://siyaozheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Assistant Professor @Shanghai Jiao Tong University"
+url                      : https://siyaozheng.github.io
+baseurl                  : "" 
 repository               : "siyaozheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siyao Zheng"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate @Tsinghua University"
+  bio              : "Assistant Professor @Shanghai Jiao Tong University"
   location         : "Beijing"
   employer         :
   pubmed           : 
